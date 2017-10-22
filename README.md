@@ -1,5 +1,3 @@
-## Warning! This module version ALFA!
-
 > # Dependencies
 > * **vue-router** 
 > * **firebase**
@@ -40,10 +38,9 @@ Vue.use(VueFirebase, {firebase: firebase, config: FBCONFIG});
 
 `this.$firebase` The firebase instance.
 
-## Auth
+## Easy check Auth routes
 
-Add define some routes meta
-
+If you want to check the route, just add the meta and define the redirect
 ```$xslt
     {
         path: '/',
