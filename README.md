@@ -45,7 +45,12 @@ If you want to check the route, just add the meta and define the redirect
     {
         path: '/',
         name: 'Hello',
-        component: HelloWorld,
+        component: HelloWorld
+    },
+    {
+        path: '/test',
+        name: 'Test',
+        component: test,
         meta: { requiresAuth: false }
     },
     {
