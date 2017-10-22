@@ -1,8 +1,6 @@
-#Vue.js plugin `vue-firebase`
-
 ## Warning! This module version ALFA!
 
-> #Dependencies
+> # Dependencies
 > * **vue-router** 
 > * **firebase**
 

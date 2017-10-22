@@ -1,0 +1,29 @@
+{
+  "name": "vue-firebase",
+  "version": "1.0.6",
+  "description": "Vue Firebase",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/component17/vue-firebase.git"
+  },
+  "keywords": [
+    "vue",
+    "firebase",
+    "auth",
+    "vue",
+    "auth"
+  ],
+  "dependencies": {},
+
+  "author": "Component17",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/component17/vue-firebase/issues"
+  },
+  "homepage": "https://github.com/component17/vue-firebase#readme",
+  "devDependencies": {}
+}
