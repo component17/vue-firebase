@@ -15,7 +15,7 @@ add `main.js`
 
 ```
 import * as firebase from "firebase";       
-import VueFirebase from './plugins/vue-firebase/index'
+import VueFirebase from 'vue-firebase'
 
 ```
 
